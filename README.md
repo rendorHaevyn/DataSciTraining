@@ -18,7 +18,7 @@ Then this Pandas tutorial
 Here are some excellent pandas code examples 
 <br />https://github.com/wesm/pydata-book 
 
-#MATHS 
+# MATHS 
 
 ### LINEAR ALGEBRA 
 Essence of Linear Algebra (Vectors, what even are they?)
