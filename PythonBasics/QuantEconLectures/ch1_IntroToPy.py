@@ -44,6 +44,8 @@ def logreg(Y,X,w,iterations):
 
 
 @numba.jit(nopython=True, parallel=True)
+
+@numba.njit('float64(float64,float64,int32,int32)', parallel=True)
 def logregnumba(Y,X,w,iterations):
     for i in range(iterations):
         w -= np.dot(((1.0 /
