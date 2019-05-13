@@ -74,6 +74,7 @@ Elements of Statistical Learning (Extremely useful)
 ## PYTHON AND DATA SCIENCE 
 Chapter 5 Python Data Science Handbook 
 <br />https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb
+<br />https://jakevdp.github.io/PythonDataScienceHandbook/
 <br />https://scikit-learn.org/stable/tutorial/index.html
 
 ## DATA STRUCTURES AND ALGORITHMS IN PYTHON
